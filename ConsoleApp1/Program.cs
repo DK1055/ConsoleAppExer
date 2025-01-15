@@ -9,3 +9,7 @@ Console.WriteLine("hellu pig, lig");
 
 
 Console.WriteLine("jauns zars");
+
+
+Console.WriteLine("Maris ir stulbs");
+Console.WriteLine("Maris ir stulbs velreiz ");
